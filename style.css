@@ -1,0 +1,24 @@
+body {
+  background-color: #e4a5ff;
+}
+h1 {
+  text-decoration: underline;
+  text-align: center;
+  padding: 40px 0;
+}
+pre {
+  font-size: 24px;
+}
+span {
+  font-size: 24px;
+  position: relative;
+  left: 20px;
+}
+.one,
+.two,
+.three,
+.four {
+  position: relative;
+  left: 80px;
+  bottom: 48px;
+}
